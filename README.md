@@ -4,7 +4,7 @@ Useful scripts for daily life and work as ITK Development.
 
 ## Installation
 
-Clone [this repository](https://github.com/rimi-itk/itk-scripts) and add the [`scripts`](scripts/) folder to your path.
+Clone [this repository](https://github.com/itk-dev/itk-scripts) and add the [`scripts`](scripts/) folder to your path.
 
 If you're running [Zsh](https://www.zsh.org/), run
 
@@ -26,7 +26,6 @@ Check that everythin work by opening a new terminal and running [one of the scri
 
 | Script        | Description                     |
 |---------------|---------------------------------|
-| `scripts/vpn` | Connect (or disconnect) via VPN |
 
 ## Coding standards
 

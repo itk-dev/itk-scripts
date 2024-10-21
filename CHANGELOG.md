@@ -7,7 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-* [PR-1](https://github.com/rimi-itk/itk-scripts/pull/1)
+* [PR-2](https://github.com/itk-dev/itk-scripts/pull/2)
+  Removed `vpn` script
+* [PR-1](https://github.com/itk-dev/itk-scripts/pull/1)
   Added scripts
 
-[Unreleased]: https://github.com/rimi-itk/itk-scripts
+[Unreleased]: https://github.com/itk-dev/itk-scripts
